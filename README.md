@@ -18,7 +18,7 @@ As a **Strategy Analyst:**
 
 ## Accessing the Data File
 The data file required for the competition is password-protected.
-- **Password:** `ALL123`
+- **Password:** `MERCHANT`
 
 ## Instruction
 1. Analyze the provided data using suitable tools and techniques.
