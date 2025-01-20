@@ -3,7 +3,7 @@
 
 ## Team Details
 - **Team Name:** Dikec  
-- **Members:** Raman, Prabhash
+- **Members:** Raman, Prabhash, Sachin
 
 ## Challenge Objective
 As a **Strategy Analyst:**
